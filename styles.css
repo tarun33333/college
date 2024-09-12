@@ -1,0 +1,15 @@
+#nav{
+ display: inline-flex;
+ padding-left: 99%;
+ font-size: 120%;
+ background-color: gray;
+ 
+ 
+}
+nav a{
+    color: white; 
+    text-decoration: none;
+    font-weight: bolder;
+    
+ }
+ 
